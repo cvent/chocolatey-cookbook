@@ -11,7 +11,7 @@ group :test do
 end
 
 group :integration do
-  gem 'kitchen-vagrant', '~> 0.19'
+  gem 'kitchen-vagrant', '~> 0.21', '>= 0.21.1'
   gem 'kitchen-inspec', '~> 0.14'
   gem 'test-kitchen', '~> 1.6'
   gem 'winrm-fs', '~> 0.4'
