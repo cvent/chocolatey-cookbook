@@ -14,5 +14,5 @@ group :integration do
   gem 'kitchen-vagrant', '~> 0.19'
   gem 'kitchen-inspec', '~> 0.14'
   gem 'test-kitchen', '~> 1.6'
-  gem 'winrm-fs', '~> 0.4'
+  gem 'winrm-fs', '~> 0.4', '>= 0.4.3'
 end
