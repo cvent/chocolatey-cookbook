@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rake', '~> 10.4'
+gem 'rake', '~> 10.5'
 gem 'berkshelf', '~> 4.0'
 gem 'stove', '~> 3.2'
 
